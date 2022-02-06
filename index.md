@@ -1,11 +1,12 @@
 # Bruce Brown
 
-## **Weekly Availability:**
+### **Weekly Availability:**
 - Monday, Tuesday, Thursday, and Friday - 4pm to 8pm CST
 - Saturday and Sunday - 10am to 8pm CST
 
-## **Top three elevator pitches:**
-### 1. **OCL:**
+### **Top three elevator pitches:**
+
+#### 1. **OCL:**
 - For [parents]
 - Who [are looking for an online library of books for children]
 - The [Online Children's Library]
@@ -14,7 +15,7 @@
 - Unlike [the local library]
 - Our product [gives you quick access to your favorite stories]
 
-### 2. **BRSC:**
+#### 2. **BRSC:**
 - For [bowlers]
 - Who [want to know the best bowling shoe size for their feet]
 - The [Bowl Right Size Converter]
@@ -23,7 +24,7 @@
 - Unlike [the bowling alley]
 - Our product [will find the best bowling shoe size to keep you comfortable during a game]
 
-### 3. **RW:**
+#### 3. **RW:**
 - For [frequent international travelers]
 - Who [want to get the current exchange rate]
 - The [Rate Watcher]
