@@ -1,8 +1,8 @@
 Hi, my name is Bruce Brown.
 
 **Weekly Availability:**
-M,T,TH,F - 4pm to 8pm CST
-S & Su - 10am to 8pm
+Monday, Tuesday, Thursday,and Friday - 4pm to 8pm CST
+Saturday & Sunday - 10am to 8pm
 
 **Top three elevator pitches:**
 1. For [parents]
